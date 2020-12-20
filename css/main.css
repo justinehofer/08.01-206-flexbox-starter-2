@@ -131,7 +131,7 @@ main {
 }
 
 .flex-container {
-
+    display: flex;
 }
 
 .flex-items {
