@@ -134,6 +134,7 @@ main {
 
 .flex-items {
   color: #fff;
+  display: flex;
   line-height: 1.5em;
   font-size: 1.6em;
   background-color: #f16059;
